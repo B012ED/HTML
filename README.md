@@ -1,2 +1,2 @@
 # HTML
-only for myself
+only for my self
